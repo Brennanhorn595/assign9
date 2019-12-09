@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css?family=Geo|Mouse+Memoirs&display=swap');
+body{
+    background-color: cyan ;
+}
+h1 h2 h3 h4{
+    font-family: 'Geo', sans-serif;
+    background-color: orange;
+}
+p{
+    font-family: 'Mouse Memoirs', sans-serif;
+    background-color: palegreen;
+}
